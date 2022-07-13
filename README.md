@@ -31,3 +31,5 @@ src="https://img.shields.io/twitter/follow/DTBCODEMX?logo=twitter&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DTBCODEMX"><img src="https://github-readme-stats.vercel.app/api?username=DTBCODEMX&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="DTBCODEMX's GitHub stats" /></a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/881898022886326304)](https://discord.com/users/881898022886326304)
