@@ -1,7 +1,7 @@
-Hi 👋 My name is Damian Torres
+🎮 Damian Torres Barrionuevo
 ==============================
 
-### Game Developer 🎮 in progress. 
+## Game Developer 🎮 in progress. 
 
 Like to find new technologies, learn more about them and develop new things to make things easier for others.
 * 🌍  I'm based in Mexico 🇲🇽
