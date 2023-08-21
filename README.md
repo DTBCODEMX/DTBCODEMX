@@ -1,7 +1,7 @@
 👨🏻‍💻 Damian Torres 
 ==============================
 
-## Desarrollador de videojuegos en proceso. 
+## Ingeniero en Ciberseguridad. 
 
 > Like to find new technologies, learn more about them and develop new things to make things easier for others.
 * 🌍  I'm based in Mexico 🇲🇽
